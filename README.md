@@ -6,7 +6,7 @@ Hi, i'm kaoutar 👋
 - 💻 Python · C++ · C
 
 ### what i'm building
-- [30-day coding challenge](|I will link my challenge later) — 30 projects in 30 days
+- [30-day coding challenge](I will link my challenge later) — 30 projects in 30 days
 - more coming soon 👀
 
 ### let's connect
