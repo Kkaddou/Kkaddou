@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi, i'm kaoutar 👋
 
-<!--
-**Kkaddou/Kkaddou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 CS @ UMBC (AI track) — graduating dec 2027
+- 🔬 aiming for a PhD in CS, AI research
+- 🌱 right now: doing a 30-day coding challenge (oct 2026) — one project a day
+- 💻 Python · C++ · C
 
-Here are some ideas to get you started:
+### what i'm building
+- [30-day coding challenge](|I will link my challenge later) — 30 projects in 30 days
+- more coming soon 👀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### let's connect
+- [linkedin] https://www.linkedin.com/in/kaoutar-kaddouri-067885313/
